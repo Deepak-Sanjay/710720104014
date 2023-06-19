@@ -42,4 +42,4 @@ app.get("/numbers/oddnum/:n", (req, res) => {
   res.send(oddnum);
 });
 
-app.listen(5000);
+app.listen(3000);
